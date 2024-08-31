@@ -1,2 +1,2 @@
 # guptanishu86.github.io
-Github Host Repository
+Github Hosting & Sub-Domain (github.io) Repository
